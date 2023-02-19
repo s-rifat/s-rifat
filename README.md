@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Syed Rifat Manjur</h1>
-<h3 align="center">A passionate programmer from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-rifat" alt="s-rifat" /></a> </p>
 
